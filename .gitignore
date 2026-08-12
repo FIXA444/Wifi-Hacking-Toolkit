@@ -1,0 +1,43 @@
+# Logs
+logs/*.log
+logs/*.txt
+*.log
+
+# Capturas
+*.cap
+*.pcap
+*.pcapng
+*.csv
+*.netxml
+
+# Hashes
+*.hash
+*_cracked.txt
+*.hccapx
+*.16800
+
+# Wordlists grandes
+wordlists/rockyou.txt
+wordlists/*.gz
+
+# Fluxion
+fluxion/
+
+# Temporales
+*.tmp
+*.temp
+.DS_Store
+Thumbs.db
+
+# Backups
+*.bak
+*~
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Directorios temporales
+temp/
+tmp/
