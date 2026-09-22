@@ -249,7 +249,7 @@ Las contribuciones son bienvenidas:
 
 ## 👤 Autor
 
-**Jason's Cybersecurity Tools**
+**FIXA444**
 
 ---
 
@@ -270,7 +270,3 @@ Ver el archivo [LICENSE](LICENSE) para más detalles.
 - Comunidad de seguridad informática
 
 ---
-
-<p align="center">
-  <strong>⚡ Hecho con 💀 para la comunidad de hacking ético ⚡</strong>
-</p>
